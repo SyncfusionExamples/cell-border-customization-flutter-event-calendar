@@ -4,6 +4,7 @@ A quick-start example to help you to customize the cell border in the Flutter Ca
 
 The [cellBorderColor](https://help.syncfusion.com/flutter/calendar/getting-started#cell-border-color) property of the Flutter Event Calendar allows you to customise the cell borders. You can change the colours of the vertical and horizontal lines by using the cellBorderColor property.
 
+![CellBorder](https://user-images.githubusercontent.com/46158936/208893729-44c2ec1b-4b00-4c42-924f-f457db3cc51b.gif)
 
 For more details, refer to our UG documentation [CellBorderCustomization](https://help.syncfusion.com/flutter/calendar/getting-started#cell-border-color)
 
